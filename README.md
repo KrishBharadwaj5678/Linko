@@ -2,23 +2,30 @@
 
 Welcome to **Linko** – a modern, fast, and responsive video calling platform built to connect people seamlessly, just like Google Meet! 🚀
 
-
-## 🔧 Tech Stack
-
-- ⚛️ **ReactJS** – For fast and dynamic UI
-- 🎨 **TailwindCSS** – For sleek, responsive, and modern design
-- 🌐 **ZEGOCLOUD** – For real-time video and audio communication
-
 ---
 
 ## ✨ Features
 
-- ✅ High-quality video & audio calling
-- 🔗 Unique meeting room links
-- 👥 Multiple participant support
-- 💬 Real-time chat
-- 📱 Fully responsive – works on mobile, tablet, and desktop
-- 🔒 Secure & private rooms
+- ✅ **High-quality video & audio calling**
+- 🔗 **Unique meeting room links** – Easily shareable
+- 👥 **Multiple participant support** – Invite as many users as needed
+- 💬 **Real-time chat** – Communicate via text alongside the call
+- 🖥️ **Screen sharing** – Share your screen for presentations or demos
+- 🧏 **Active speaker detection** – Automatically highlights the person speaking
+- 🎙️ **Mute/unmute controls** – Full control over audio
+- 🎥 **Turn camera on/off** – Toggle video as needed
+- 🪞 **Camera preview before joining** – See yourself before entering the call
+- 📱 **Fully responsive** – Works great on mobile, tablet, and desktop
+- 🔒 **Secure & private rooms** – Communication stays encrypted and safe
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ **ReactJS** – For fast and dynamic UI development
+- 🎨 **TailwindCSS** – For sleek, responsive, and modern design
+- 🌐 **ZEGOCLOUD** – For real-time video, audio, and messaging functionality
+- 🛠️ **Vite** – Lightning-fast build tool and development server
 
 ---
 
@@ -40,8 +47,8 @@ To get Linko up and running locally:
 3. **Add your ZEGOCLOUD Credentials**
 
    ```
-   VITE_ZEGO_APP_ID=your_app_id
-   VITE_ZEGO_SERVER_SECRET=your_server_secret
+   appID = your_app_id
+   serverSecret = your_server_secret
    ```
 
 4. **Start the development server**
@@ -54,7 +61,6 @@ To get Linko up and running locally:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/yourusername/linko/issues) to get started.
 
 ### 🛠️ How to Contribute
 
