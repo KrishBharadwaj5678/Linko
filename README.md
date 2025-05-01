@@ -1,4 +1,4 @@
-# 🎥 Linko – Video Calling Made Simple!
+# 👥 Linko – Video Calling Made Simple!
    
 Welcome to **Linko** – a modern, fast, and responsive video calling platform built to connect people effortlessly. Host meetings, share your screen, chat in real-time, and enjoy high-quality video. 🧑‍💻⚡
 
