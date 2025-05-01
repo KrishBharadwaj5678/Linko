@@ -28,8 +28,8 @@ To get Linko up and running locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/linko.git
-   cd linko
+   git clone https://github.com/KrishBharadwaj5678/Linko.git
+   cd Linko
    ```
 
 2. **Install dependencies**
@@ -37,9 +37,7 @@ To get Linko up and running locally:
    npm install
    ```
 
-3. **Set up environment variables**
-
-   Create a `.env` file in the root directory and add your ZEGOCLOUD credentials:
+3. **Add your ZEGOCLOUD Credentials**
 
    ```
    VITE_ZEGO_APP_ID=your_app_id
@@ -50,10 +48,6 @@ To get Linko up and running locally:
    ```bash
    npm run dev
    ```
-
----
-
-Certainly! Here's the updated **`## 🤝 Contributing`** section with clear contribution steps:
 
 ---
 
