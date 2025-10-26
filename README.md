@@ -2,30 +2,36 @@
    
 Welcome to **Linko** – a modern, fast, and responsive video calling platform built to connect people effortlessly. Host meetings, share your screen, chat in real-time, and enjoy high-quality video. 🧑‍💻⚡
 
+![Linko](https://github.com/KrishBharadwaj5678/Linko/raw/main/LinkoDemo.png)
+
 ---
 
 ## ✨ Features
 
-- ✅ **High-quality video & audio calling**
-- 🔗 **Unique meeting room links** – Easily shareable
-- 👥 **Multiple participant support** – Invite as many users as needed
-- 💬 **Real-time chat** – Communicate via text alongside the call
-- 🖥️ **Screen sharing** – Share your screen for presentations or demos
-- 🧏 **Active speaker detection** – Automatically highlights the person speaking
-- 🎙️ **Mute/unmute controls** – Full control over audio
-- 🎥 **Turn camera on/off** – Toggle video as needed
-- 🪞 **Camera preview before joining** – See yourself before entering the call
-- 📱 **Fully responsive** – Works great on mobile, tablet, and desktop
-- 🔒 **Secure & private rooms** – Communication stays encrypted and safe
+| Feature                                  | Description                                                    |
+| :--------------------------------------- | :------------------------------------------------------------- |
+| ✅ **High-Quality Video & Audio Calling** | Enjoy crystal-clear video and audio communication.             |
+| 🔗 **Unique Meeting Room Links**         | Easily create and share unique meeting URLs.                   |
+| 👥 **Multiple Participant Support**      | Host or join meetings with many participants seamlessly.       |
+| 💬 **Real-Time Chat**                    | Send and receive instant messages during calls.                |
+| 🖥️ **Screen Sharing**                   | Share your screen for presentations, demos, or collaborations. |
+| 🧏 **Active Speaker Detection**          | Automatically highlights the person currently speaking.        |
+| 🎙️ **Mute/Unmute Controls**             | Manage your audio with a single click.                         |
+| 🎥 **Turn Camera On/Off**                | Toggle video visibility as needed.                             |
+| 🪞 **Camera Preview Before Joining**     | Check your camera view before entering the meeting.            |
+| 📱 **Fully Responsive**                  | Works perfectly across mobile, tablet, and desktop devices.    |
+| 🔒 **Secure & Private Rooms**            | All communication remains encrypted and protected.             |
 
 ---
 
 ## 🔧 Tech Stack
 
-- ⚛️ **ReactJS** – For fast and dynamic UI development
-- 🎨 **TailwindCSS** – For sleek, responsive, and modern design
-- 🌐 **ZEGOCLOUD** – For real-time video, audio, and messaging functionality
-- 🛠️ **Vite** – Lightning-fast build tool and development server
+| Technology         | Description                                                                 |
+| :----------------- | :-------------------------------------------------------------------------- |
+| ⚛️ **ReactJS**     | Enables fast, dynamic, and component-based UI development.                  |
+| 🎨 **TailwindCSS** | Provides sleek, responsive, and modern styling with utility-first design.   |
+| 🌐 **ZEGOCLOUD**   | Powers real-time video, audio, and messaging functionality.                 |
+| 🛠️ **Vite**       | Lightning-fast build tool and development server for optimized performance. |
 
 ---
 
