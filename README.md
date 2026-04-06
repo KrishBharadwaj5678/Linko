@@ -1,10 +1,8 @@
-# 👥 Linko – Video Calling Made Simple!
+# 👥 Linko 
    
-Welcome to **Linko** – a modern, fast, and responsive video calling platform built to connect people effortlessly. Host meetings, share your screen, chat in real-time, and enjoy high-quality video. 🧑‍💻⚡
+Welcome to **Linko** – a modern, fast, and responsive video calling platform built to connect people effortlessly. Host meetings, share your screen, chat in real-time, and enjoy high-quality video. 
 
 ![Linko](https://github.com/KrishBharadwaj5678/Linko/raw/main/LinkoDemo.png)
-
----
 
 ## ✨ Features
 
@@ -64,16 +62,12 @@ To get Linko up and running locally:
 
 ---
 
-## 🤝 Contributing
+## Contributing 🤝
 
-Contributions, issues, and feature requests are welcome!  
+Want to contribute? Here's how:
 
-### 🛠️ How to Contribute
-
-1. **Fork the Repository**
-2. **Clone Your Fork**
-3. **Create a New Branch**
-4. **Make Your Changes**
-5. **Commit Your Changes**
-6. **Push to Your Branch**
-7. **Open a Pull Request**
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
